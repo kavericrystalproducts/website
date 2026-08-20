@@ -1,0 +1,6 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Order Received | Kaveri Crystal Products</title><link rel="stylesheet" href="assets/styles.css"></head><body>
+<header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">✦</span>KAVERI CRYSTAL PRODUCTS</a><nav><a href="catalog.html">Catalog</a><a href="blogs.html">Blogs</a></nav><a class="cart-link" href="checkout.html">Cart <span id="cartCount">0</span></a></header>
+<main class="success-page"><div class="success-card"><div class="success-icon">✓</div><p class="eyebrow">TEST CHECKOUT COMPLETE</p><h1>Order received.</h1><p>Payment has been bypassed for testing. Your order has been recorded locally in this browser.</p><div id="orderInfo"></div><a class="primary-btn" href="catalog.html">Continue shopping</a></div></main><footer>© 2026 Kaveri Crystal Products</footer>
+<script src="assets/app.js"></script><script>
+updateCartCount();const o=JSON.parse(localStorage.getItem("lastTestOrder")||"null");document.getElementById("orderInfo").innerHTML=o?`<div class="test-order"><strong>${o.orderId}</strong><span>${o.customer.name}</span><span>${o.customer.phone}</span><strong>₹${Number(o.total).toLocaleString("en-IN")}</strong></div>`:"";
+</script></body></html>

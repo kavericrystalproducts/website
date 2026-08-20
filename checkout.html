@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><title>Checkout | Kaveri Crystal Products</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="description" content="Review your crystal order and place your order through WhatsApp."><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><link rel="canonical" href="https://kavericrystalproducts.com/checkout.html"><meta property="og:site_name" content="Kaveri Crystal Products"><meta property="og:title" content="Checkout | Kaveri Crystal Products"><meta property="og:type" content="website"><meta property="og:url" content="https://kavericrystalproducts.com/checkout.html"><meta property="og:description" content="Review your crystal order and place your order through WhatsApp."><meta property="og:locale" content="en_IN"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Checkout | Kaveri Crystal Products"><meta name="twitter:description" content="Review your crystal order and place your order through WhatsApp."><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="manifest" href="/site.webmanifest"><link rel="stylesheet" href="assets/styles.css"></head>
+<body>
+<header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">✦</span>KAVERI CRYSTAL PRODUCTS</a>
+<nav><a href="catalog.html">Catalog</a><a href="blogs.html">Blogs</a><a href="index.html#bulk">Bulk Enquiry</a></nav>
+<a class="cart-link" href="checkout.html">Cart <span id="cartCount">0</span></a></header>
+<main class="checkout-page">
+<div class="page-title"><p class="eyebrow">YOUR ORDER</p><h1>Cart & Checkout</h1></div>
+<div class="checkout-layout">
+<section><div id="cartItems"></div><div id="cartEmpty" class="empty hidden"><h3>Your cart is empty</h3><a class="primary-btn" href="catalog.html">Browse catalog</a></div></section>
+<aside class="checkout-card"><h2>Order summary</h2><div id="summary"></div>
+<form id="checkoutForm">
+<input name="name" required placeholder="Full name"><input name="phone" required placeholder="WhatsApp / Phone">
+<input name="email" type="email" placeholder="Email">
+<input name="address1" required placeholder="House / Flat / Street">
+<input name="address2" placeholder="Area / Locality">
+<div class="address-row"><input name="city" required placeholder="City"><input name="state" required placeholder="State"></div>
+<input name="pincode" required inputmode="numeric" placeholder="PIN code">
+<textarea name="notes" rows="3" placeholder="Order notes (optional)"></textarea>
+<button type="submit">Place Order on WhatsApp →</button>
+</form>
+<p class="small-note">Your order details will open in WhatsApp. We'll send the payment QR and shipping/tracking details there.</p>
+</aside></div>
+</main>
+<div id="qrModal" class="modal hidden"><div class="qr-card"><button id="qrClose">×</button><p class="eyebrow">PAYMENT</p><h2>Scan & Pay</h2><p>Scan the QR below with any UPI app. Pay the exact order total.</p>
+<div class="qr-box"><img src="assets/payment-qr.svg" alt="Store UPI payment QR" onerror="this.style.display='none';document.getElementById('qrPlaceholder').style.display='grid'"><div id="qrPlaceholder">YOUR UPI QR<br><small>Replace assets/payment-qr.svg</small></div></div>
+<div id="qrAmount" class="qr-amount"></div><button id="confirmPayment" class="primary-btn">I've Paid — Send Order</button>
+</div></div>
+<footer>© 2026 Kaveri Crystal Products</footer><script src="assets/app.js"></script><script>initCheckout();</script></body></html>

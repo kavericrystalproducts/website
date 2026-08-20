@@ -1,0 +1,8 @@
+{
+  "name": "Kaveri Crystal Products",
+  "short_name": "Kaveri Crystal Products",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5ef",
+  "theme_color": "#2d2823"
+}
