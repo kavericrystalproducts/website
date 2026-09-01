@@ -1,6 +1,8 @@
 const DATA={products:[],blogs:[]};
+const IMAGE_ROOT="./images/";
+const imageUrl=p=>{const n=String(p||"").split("/").pop();return n?IMAGE_ROOT+n:"";};
 const WHATSAPP_NUMBER="917626999369"; // Replace with your business WhatsApp number, country code included, no + or spaces
-async function loadData(){if(DATA.products.length)return;[DATA.products,DATA.blogs]=await Promise.all([fetch("data/products.json").then(r=>r.json()),fetch("data/blogs.json").then(r=>r.json())]);}
+async function loadData(){if(DATA.products.length)return;[DATA.products,DATA.blogs]=await Promise.all([fetch("./data/products.json").then(r=>r.json()),fetch("./data/blogs.json").then(r=>r.json())]);}
 const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
 function cart(){return JSON.parse(localStorage.getItem("crystalCart")||"[]")}
 function saveCart(c){localStorage.setItem("crystalCart",JSON.stringify(c));updateCartCount()}
@@ -8,7 +10,7 @@ function updateCartCount(){let n=cart().reduce((a,x)=>a+x.qty,0);document.queryS
 function addItem(id,option="",price=null){let c=cart(),x=c.find(i=>i.id===id&&i.option===option);if(x)x.qty++;else c.push({id,option,price,qty:1});saveCart(c);showToast("Added to cart")}
 function removeItem(i){let c=cart();c.splice(i,1);saveCart(c);renderCheckout()}
 function money(n){return "₹"+Number(n||0).toLocaleString("en-IN")}
-function productCard(p){return `<article class="product-card"><a href="product.html?id=${encodeURIComponent(p.id)}"><div class="product-image">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:`<div class="placeholder-stone">✦</div>`}</div></a><div class="product-info"><div class="meta">${esc(p.crystal)} · ${esc(p.type)}</div><h3>${esc(p.name)}</h3><div class="price">From ${money(p.options?.length?p.options[0].price:p.price)}</div><a class="add-btn" href="product.html?id=${encodeURIComponent(p.id)}">View product →</a></div></article>`}
+function productCard(p){return `<article class="product-card"><a href="product.html?id=${encodeURIComponent(p.id)}"><div class="product-image">${p.image?`<img src="${esc(imageUrl(p.image))}" alt="${esc(p.name)}" loading="lazy">`:`<div class="placeholder-stone">✦</div>`}</div></a><div class="product-info"><div class="meta">${esc(p.crystal)} · ${esc(p.type)}</div><h3>${esc(p.name)}</h3><div class="price">From ${money(p.options?.length?p.options[0].price:p.price)}</div><a class="add-btn" href="product.html?id=${encodeURIComponent(p.id)}">View product →</a></div></article>`}
 function score(p,q){let terms=q.toLowerCase().split(/\s+/).filter(Boolean),s=0,text=[p.name,p.crystal,p.type,p.shortDescription,p.description,(p.tags||[]).join(" ")].join(" ").toLowerCase();for(const t of terms){if(p.name.toLowerCase().includes(t))s+=50;if(p.crystal.toLowerCase().includes(t))s+=35;if(p.type.toLowerCase().includes(t))s+=25;if(text.includes(t))s+=8}return s}
 async function renderBestSellers(){await loadData();let g=document.getElementById("bestGrid");if(g)g.innerHTML=DATA.products.filter(p=>p.bestSeller).slice(0,8).map(productCard).join("");updateCartCount()}
 async function initCatalog(){await loadData();let c=document.getElementById("crystalFilter"),t=document.getElementById("typeFilter");[...new Set(DATA.products.map(p=>p.crystal))].sort().forEach(v=>c.add(new Option(v,v)));[...new Set(DATA.products.map(p=>p.type))].sort().forEach(v=>t.add(new Option(v,v)));["catalogSearch","crystalFilter","typeFilter","sortBy"].forEach(id=>document.getElementById(id).addEventListener(id==="catalogSearch"?"input":"change",renderCatalog));renderCatalog();updateCartCount()}
