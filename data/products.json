@@ -32,7 +32,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/amethyst-tumble.jpg"
+    "image": "./images/amethyst-tumble.jpg"
   },
   {
     "name": "Rose Quartz Tumble",
@@ -67,7 +67,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/rose-quartz-tumble.jpg"
+    "image": "./images/rose-quartz-tumble.jpg"
   },
   {
     "name": "Clear Quartz Tumble",
@@ -102,7 +102,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/clear-quartz-tumble.jpg"
+    "image": "./images/clear-quartz-tumble.jpg"
   },
   {
     "name": "Citrine Tumble",
@@ -137,7 +137,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/citrine-tumble.jpg"
+    "image": "./images/citrine-tumble.jpg"
   },
   {
     "name": "Black Tourmaline Tumble",
@@ -172,7 +172,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/black-tourmaline-tumble.jpg"
+    "image": "./images/black-tourmaline-tumble.jpg"
   },
   {
     "name": "Green Aventurine Tumble",
@@ -207,7 +207,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/green-aventurine-tumble.jpg"
+    "image": "./images/green-aventurine-tumble.jpg"
   },
   {
     "name": "Carnelian Tumble",
@@ -242,7 +242,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/carnelian-tumble.jpg"
+    "image": "./images/carnelian-tumble.jpg"
   },
   {
     "name": "Selenite Tumble",
@@ -277,7 +277,7 @@
     },
     "unit": "pcs",
     "bestSeller": true,
-    "image": "assets/products/selenite-tumble.jpg"
+    "image": "./images/selenite-tumble.jpg"
   },
   {
     "name": "Lapis Lazuli Tumble",
@@ -311,7 +311,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/lapis-lazuli-tumble.jpg"
+    "image": "./images/lapis-lazuli-tumble.jpg"
   },
   {
     "name": "Moonstone Tumble",
@@ -345,7 +345,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/moonstone-tumble.jpg"
+    "image": "./images/moonstone-tumble.jpg"
   },
   {
     "name": "Labradorite Tumble",
@@ -379,7 +379,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/labradorite-tumble.jpg"
+    "image": "./images/labradorite-tumble.jpg"
   },
   {
     "name": "Tiger Eye Tumble",
@@ -413,7 +413,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/tiger-eye-tumble.jpg"
+    "image": "./images/tiger-eye-tumble.jpg"
   },
   {
     "name": "Smoky Quartz Tumble",
@@ -447,7 +447,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/smoky-quartz-tumble.jpg"
+    "image": "./images/smoky-quartz-tumble.jpg"
   },
   {
     "name": "Fluorite Tumble",
@@ -481,7 +481,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/fluorite-tumble.jpg"
+    "image": "./images/fluorite-tumble.jpg"
   },
   {
     "name": "Pyrite Tumble",
@@ -515,7 +515,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/pyrite-tumble.jpg"
+    "image": "./images/pyrite-tumble.jpg"
   },
   {
     "name": "Green Jade Tumble",
@@ -549,7 +549,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/green-jade-tumble.jpg"
+    "image": "./images/green-jade-tumble.jpg"
   },
   {
     "name": "Red Jasper Tumble",
@@ -583,7 +583,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/red-jasper-tumble.jpg"
+    "image": "./images/red-jasper-tumble.jpg"
   },
   {
     "name": "Amazonite Tumble",
@@ -617,7 +617,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/amazonite-tumble.jpg"
+    "image": "./images/amazonite-tumble.jpg"
   },
   {
     "name": "Malachite Tumble",
@@ -651,7 +651,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/malachite-tumble.jpg"
+    "image": "./images/malachite-tumble.jpg"
   },
   {
     "name": "Obsidian Tumble",
@@ -685,7 +685,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/obsidian-tumble.jpg"
+    "image": "./images/obsidian-tumble.jpg"
   },
   {
     "name": "Howlite Tumble",
@@ -719,7 +719,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/howlite-tumble.jpg"
+    "image": "./images/howlite-tumble.jpg"
   },
   {
     "name": "Sunstone Tumble",
@@ -753,7 +753,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/sunstone-tumble.jpg"
+    "image": "./images/sunstone-tumble.jpg"
   },
   {
     "name": "Aquamarine Tumble",
@@ -787,7 +787,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/aquamarine-tumble.jpg"
+    "image": "./images/aquamarine-tumble.jpg"
   },
   {
     "name": "Garnet Tumble",
@@ -821,7 +821,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/garnet-tumble.jpg"
+    "image": "./images/garnet-tumble.jpg"
   },
   {
     "name": "Bloodstone Tumble",
@@ -855,7 +855,7 @@
       "Care": "Handle gently and store separately from harder stones."
     },
     "unit": "pcs",
-    "image": "assets/products/bloodstone-tumble.jpg"
+    "image": "./images/bloodstone-tumble.jpg"
   },
   {
     "name": "Ametrine",
@@ -870,7 +870,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-ametrine.jpg",
+    "image": "./images/bracelet-ametrine.jpg",
     "bestSeller": false,
     "tags": [
       "ametrine",
@@ -891,7 +891,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-angelite.jpg",
+    "image": "./images/bracelet-angelite.jpg",
     "bestSeller": false,
     "tags": [
       "angelite",
@@ -912,7 +912,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-apachetears.jpg",
+    "image": "./images/bracelet-apachetears.jpg",
     "bestSeller": false,
     "tags": [
       "apachetears",
@@ -933,7 +933,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-apatite.jpg",
+    "image": "./images/bracelet-apatite.jpg",
     "bestSeller": false,
     "tags": [
       "apatite",
@@ -954,7 +954,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aquamarine.jpg",
+    "image": "./images/bracelet-aquamarine.jpg",
     "bestSeller": false,
     "tags": [
       "aquamarine",
@@ -975,7 +975,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-amazonite.jpg",
+    "image": "./images/bracelet-amazonite.jpg",
     "bestSeller": false,
     "tags": [
       "amazonite",
@@ -996,7 +996,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-african-bloodstone.jpg",
+    "image": "./images/bracelet-african-bloodstone.jpg",
     "bestSeller": false,
     "tags": [
       "african bloodstone",
@@ -1017,7 +1017,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-african-turquoise.jpg",
+    "image": "./images/bracelet-african-turquoise.jpg",
     "bestSeller": false,
     "tags": [
       "african turquoise",
@@ -1038,7 +1038,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-amethyst.jpg",
+    "image": "./images/bracelet-amethyst.jpg",
     "bestSeller": false,
     "tags": [
       "amethyst",
@@ -1059,7 +1059,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aura-quartz-labradorite.jpg",
+    "image": "./images/bracelet-aura-quartz-labradorite.jpg",
     "bestSeller": false,
     "tags": [
       "aura quartz labradorite",
@@ -1080,7 +1080,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aura-quartz-amethyst.jpg",
+    "image": "./images/bracelet-aura-quartz-amethyst.jpg",
     "bestSeller": false,
     "tags": [
       "aura quartz amethyst",
@@ -1101,7 +1101,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aura-quartz-citrine.jpg",
+    "image": "./images/bracelet-aura-quartz-citrine.jpg",
     "bestSeller": false,
     "tags": [
       "aura quartz citrine",
@@ -1122,7 +1122,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aura-quartz-rainbow-moonstone.jpg",
+    "image": "./images/bracelet-aura-quartz-rainbow-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "aura quartz rainbow moonstone",
@@ -1143,7 +1143,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aura-quartz-rainbow-moonstone-faceted.jpg",
+    "image": "./images/bracelet-aura-quartz-rainbow-moonstone-faceted.jpg",
     "bestSeller": false,
     "tags": [
       "aura quartz rainbow moonstone faceted",
@@ -1164,7 +1164,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-aura-quartz-rose-quartz.jpg",
+    "image": "./images/bracelet-aura-quartz-rose-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "aura quartz rose quartz",
@@ -1185,7 +1185,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-obsidian.jpg",
+    "image": "./images/bracelet-black-obsidian.jpg",
     "bestSeller": false,
     "tags": [
       "black obsidian",
@@ -1206,7 +1206,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-onyx.jpg",
+    "image": "./images/bracelet-black-onyx.jpg",
     "bestSeller": false,
     "tags": [
       "black onyx",
@@ -1227,7 +1227,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-onyx-matt.jpg",
+    "image": "./images/bracelet-black-onyx-matt.jpg",
     "bestSeller": false,
     "tags": [
       "black onyx matt",
@@ -1248,7 +1248,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-sulemani-agate.jpg",
+    "image": "./images/bracelet-black-sulemani-agate.jpg",
     "bestSeller": false,
     "tags": [
       "black sulemani agate",
@@ -1269,7 +1269,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-rutile.jpg",
+    "image": "./images/bracelet-black-rutile.jpg",
     "bestSeller": false,
     "tags": [
       "black rutile",
@@ -1290,7 +1290,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-shungite.jpg",
+    "image": "./images/bracelet-black-shungite.jpg",
     "bestSeller": false,
     "tags": [
       "black shungite",
@@ -1311,7 +1311,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-tourmaline.jpg",
+    "image": "./images/bracelet-black-tourmaline.jpg",
     "bestSeller": false,
     "tags": [
       "black tourmaline",
@@ -1332,7 +1332,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-bloodstone.jpg",
+    "image": "./images/bracelet-bloodstone.jpg",
     "bestSeller": false,
     "tags": [
       "bloodstone",
@@ -1353,7 +1353,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-blue-lace-agate.jpg",
+    "image": "./images/bracelet-blue-lace-agate.jpg",
     "bestSeller": false,
     "tags": [
       "blue lace agate",
@@ -1374,7 +1374,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-blue-sandstone.jpg",
+    "image": "./images/bracelet-blue-sandstone.jpg",
     "bestSeller": false,
     "tags": [
       "blue sandstone",
@@ -1395,7 +1395,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-blue-tiger-eye.jpg",
+    "image": "./images/bracelet-blue-tiger-eye.jpg",
     "bestSeller": false,
     "tags": [
       "blue tiger eye",
@@ -1416,7 +1416,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-botswana-agate.jpg",
+    "image": "./images/bracelet-botswana-agate.jpg",
     "bestSeller": false,
     "tags": [
       "botswana agate",
@@ -1437,7 +1437,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-bronzite.jpg",
+    "image": "./images/bracelet-bronzite.jpg",
     "bestSeller": false,
     "tags": [
       "bronzite",
@@ -1458,7 +1458,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-carnelian.jpg",
+    "image": "./images/bracelet-carnelian.jpg",
     "bestSeller": false,
     "tags": [
       "carnelian",
@@ -1479,7 +1479,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-chalcedony-dyed.jpg",
+    "image": "./images/bracelet-chalcedony-dyed.jpg",
     "bestSeller": false,
     "tags": [
       "chalcedony dyed",
@@ -1500,7 +1500,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-chariote-dyed.jpg",
+    "image": "./images/bracelet-chariote-dyed.jpg",
     "bestSeller": false,
     "tags": [
       "chariote dyed",
@@ -1521,7 +1521,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-chrysocolla.jpg",
+    "image": "./images/bracelet-chrysocolla.jpg",
     "bestSeller": false,
     "tags": [
       "chrysocolla",
@@ -1542,7 +1542,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-citrine-natural.jpg",
+    "image": "./images/bracelet-citrine-natural.jpg",
     "bestSeller": false,
     "tags": [
       "citrine natural",
@@ -1563,7 +1563,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-conglomerate.jpg",
+    "image": "./images/bracelet-conglomerate.jpg",
     "bestSeller": false,
     "tags": [
       "conglomerate",
@@ -1584,7 +1584,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-citrine-heated.jpg",
+    "image": "./images/bracelet-citrine-heated.jpg",
     "bestSeller": false,
     "tags": [
       "citrine heated",
@@ -1605,7 +1605,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-cloudy-quartz.jpg",
+    "image": "./images/bracelet-cloudy-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "cloudy quartz",
@@ -1626,7 +1626,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-copper-howlite.jpg",
+    "image": "./images/bracelet-copper-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "copper howlite",
@@ -1647,7 +1647,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-crack-crystal.jpg",
+    "image": "./images/bracelet-crack-crystal.jpg",
     "bestSeller": false,
     "tags": [
       "crack crystal",
@@ -1668,7 +1668,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-crazy-lace-agate.jpg",
+    "image": "./images/bracelet-crazy-lace-agate.jpg",
     "bestSeller": false,
     "tags": [
       "crazy lace agate",
@@ -1689,7 +1689,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-crystal-quartz.jpg",
+    "image": "./images/bracelet-crystal-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "crystal quartz",
@@ -1710,7 +1710,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-dalmatian-jasper.jpg",
+    "image": "./images/bracelet-dalmatian-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "dalmatian jasper",
@@ -1731,7 +1731,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-dendritic-opal.jpg",
+    "image": "./images/bracelet-dendritic-opal.jpg",
     "bestSeller": false,
     "tags": [
       "dendritic opal",
@@ -1752,7 +1752,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-golden-obsidian.jpg",
+    "image": "./images/bracelet-golden-obsidian.jpg",
     "bestSeller": false,
     "tags": [
       "golden obsidian",
@@ -1773,7 +1773,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-green-aventurine.jpg",
+    "image": "./images/bracelet-green-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "green aventurine",
@@ -1794,7 +1794,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-green-fluorite.jpg",
+    "image": "./images/bracelet-green-fluorite.jpg",
     "bestSeller": false,
     "tags": [
       "green fluorite",
@@ -1815,7 +1815,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-green-jade.jpg",
+    "image": "./images/bracelet-green-jade.jpg",
     "bestSeller": false,
     "tags": [
       "green jade",
@@ -1836,7 +1836,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-green-spot-jasper.jpg",
+    "image": "./images/bracelet-green-spot-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "green spot jasper",
@@ -1857,7 +1857,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-garnet.jpg",
+    "image": "./images/bracelet-garnet.jpg",
     "bestSeller": false,
     "tags": [
       "garnet",
@@ -1878,7 +1878,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-dragon-vein-agate-black.jpg",
+    "image": "./images/bracelet-dragon-vein-agate-black.jpg",
     "bestSeller": false,
     "tags": [
       "dragon vein agate black",
@@ -1899,7 +1899,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-fancy-jasper.jpg",
+    "image": "./images/bracelet-fancy-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "fancy jasper",
@@ -1920,7 +1920,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-golden-hematite.jpg",
+    "image": "./images/bracelet-golden-hematite.jpg",
     "bestSeller": false,
     "tags": [
       "golden hematite",
@@ -1941,7 +1941,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-howlite.jpg",
+    "image": "./images/bracelet-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "howlite",
@@ -1962,7 +1962,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-hematite.jpg",
+    "image": "./images/bracelet-hematite.jpg",
     "bestSeller": false,
     "tags": [
       "hematite",
@@ -1983,7 +1983,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-honey-calcite.jpg",
+    "image": "./images/bracelet-honey-calcite.jpg",
     "bestSeller": false,
     "tags": [
       "honey calcite",
@@ -2004,7 +2004,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-iolite.jpg",
+    "image": "./images/bracelet-iolite.jpg",
     "bestSeller": false,
     "tags": [
       "iolite",
@@ -2025,7 +2025,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-k2-jasper.jpg",
+    "image": "./images/bracelet-k2-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "k2 jasper",
@@ -2046,7 +2046,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-kiwi-jasper.jpg",
+    "image": "./images/bracelet-kiwi-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "kiwi jasper",
@@ -2067,7 +2067,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-kunzite.jpg",
+    "image": "./images/bracelet-kunzite.jpg",
     "bestSeller": false,
     "tags": [
       "kunzite",
@@ -2088,7 +2088,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-labradorite.jpg",
+    "image": "./images/bracelet-labradorite.jpg",
     "bestSeller": false,
     "tags": [
       "labradorite",
@@ -2109,7 +2109,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lapis-lazuli.jpg",
+    "image": "./images/bracelet-lapis-lazuli.jpg",
     "bestSeller": false,
     "tags": [
       "lapis lazuli",
@@ -2130,7 +2130,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lepidolite.jpg",
+    "image": "./images/bracelet-lepidolite.jpg",
     "bestSeller": false,
     "tags": [
       "lepidolite",
@@ -2151,7 +2151,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava.jpg",
+    "image": "./images/bracelet-lava.jpg",
     "bestSeller": false,
     "tags": [
       "lava",
@@ -2172,7 +2172,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-leopardskin-jasper.jpg",
+    "image": "./images/bracelet-leopardskin-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "leopardskin jasper",
@@ -2193,7 +2193,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-ludolite.jpg",
+    "image": "./images/bracelet-ludolite.jpg",
     "bestSeller": false,
     "tags": [
       "ludolite",
@@ -2214,7 +2214,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-mahogany-obsidian.jpg",
+    "image": "./images/bracelet-mahogany-obsidian.jpg",
     "bestSeller": false,
     "tags": [
       "mahogany obsidian",
@@ -2235,7 +2235,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-malachite.jpg",
+    "image": "./images/bracelet-malachite.jpg",
     "bestSeller": false,
     "tags": [
       "malachite",
@@ -2256,7 +2256,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-moonstone.jpg",
+    "image": "./images/bracelet-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "moonstone",
@@ -2277,7 +2277,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-mop-star.jpg",
+    "image": "./images/bracelet-mop-star.jpg",
     "bestSeller": false,
     "tags": [
       "mop star",
@@ -2298,7 +2298,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-morganite.jpg",
+    "image": "./images/bracelet-morganite.jpg",
     "bestSeller": false,
     "tags": [
       "morganite",
@@ -2319,7 +2319,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-multi-amazonite.jpg",
+    "image": "./images/bracelet-multi-amazonite.jpg",
     "bestSeller": false,
     "tags": [
       "multi amazonite",
@@ -2340,7 +2340,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-moss-agate.jpg",
+    "image": "./images/bracelet-moss-agate.jpg",
     "bestSeller": false,
     "tags": [
       "moss agate",
@@ -2361,7 +2361,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-multi-picasso-jasper.jpg",
+    "image": "./images/bracelet-multi-picasso-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "multi picasso jasper",
@@ -2382,7 +2382,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-multi-fluorite.jpg",
+    "image": "./images/bracelet-multi-fluorite.jpg",
     "bestSeller": false,
     "tags": [
       "multi fluorite",
@@ -2403,7 +2403,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-multi-tiger-eye.jpg",
+    "image": "./images/bracelet-multi-tiger-eye.jpg",
     "bestSeller": false,
     "tags": [
       "multi tiger eye",
@@ -2424,7 +2424,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-multi-rutile.jpg",
+    "image": "./images/bracelet-multi-rutile.jpg",
     "bestSeller": false,
     "tags": [
       "multi rutile",
@@ -2445,7 +2445,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-ocean-jasper.jpg",
+    "image": "./images/bracelet-ocean-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "ocean jasper",
@@ -2466,7 +2466,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-opal-synthetic.jpg",
+    "image": "./images/bracelet-opal-synthetic.jpg",
     "bestSeller": false,
     "tags": [
       "opal synthetic",
@@ -2487,7 +2487,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-petrified-wood.jpg",
+    "image": "./images/bracelet-petrified-wood.jpg",
     "bestSeller": false,
     "tags": [
       "petrified wood",
@@ -2508,7 +2508,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-picture-jasper.jpg",
+    "image": "./images/bracelet-picture-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "picture jasper",
@@ -2529,7 +2529,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-phrenite.jpg",
+    "image": "./images/bracelet-phrenite.jpg",
     "bestSeller": false,
     "tags": [
       "phrenite",
@@ -2550,7 +2550,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-picasso-jasper.jpg",
+    "image": "./images/bracelet-picasso-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "picasso jasper",
@@ -2571,7 +2571,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-pink-opal.jpg",
+    "image": "./images/bracelet-pink-opal.jpg",
     "bestSeller": false,
     "tags": [
       "pink opal",
@@ -2592,7 +2592,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-pink-tourmaline.jpg",
+    "image": "./images/bracelet-pink-tourmaline.jpg",
     "bestSeller": false,
     "tags": [
       "pink tourmaline",
@@ -2613,7 +2613,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-pyrite.jpg",
+    "image": "./images/bracelet-pyrite.jpg",
     "bestSeller": false,
     "tags": [
       "pyrite",
@@ -2634,7 +2634,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-red-picasso-jasper.jpg",
+    "image": "./images/bracelet-red-picasso-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "red picasso jasper",
@@ -2655,7 +2655,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-red-sandstone.jpg",
+    "image": "./images/bracelet-red-sandstone.jpg",
     "bestSeller": false,
     "tags": [
       "red sandstone",
@@ -2676,7 +2676,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-red-tiger-eye.jpg",
+    "image": "./images/bracelet-red-tiger-eye.jpg",
     "bestSeller": false,
     "tags": [
       "red tiger eye",
@@ -2697,7 +2697,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-rhodochrosite.jpg",
+    "image": "./images/bracelet-rhodochrosite.jpg",
     "bestSeller": false,
     "tags": [
       "rhodochrosite",
@@ -2718,7 +2718,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-rhodonite.jpg",
+    "image": "./images/bracelet-rhodonite.jpg",
     "bestSeller": false,
     "tags": [
       "rhodonite",
@@ -2739,7 +2739,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-red-jasper.jpg",
+    "image": "./images/bracelet-red-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "red jasper",
@@ -2760,7 +2760,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-rainbow-black-obsidian.jpg",
+    "image": "./images/bracelet-rainbow-black-obsidian.jpg",
     "bestSeller": false,
     "tags": [
       "rainbow black obsidian",
@@ -2781,7 +2781,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-red-aventurine.jpg",
+    "image": "./images/bracelet-red-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "red aventurine",
@@ -2802,7 +2802,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-red-onyx.jpg",
+    "image": "./images/bracelet-red-onyx.jpg",
     "bestSeller": false,
     "tags": [
       "red onyx",
@@ -2823,7 +2823,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-rose-quartz.jpg",
+    "image": "./images/bracelet-rose-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "rose quartz",
@@ -2844,7 +2844,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-ruby-zosite.jpg",
+    "image": "./images/bracelet-ruby-zosite.jpg",
     "bestSeller": false,
     "tags": [
       "ruby zosite",
@@ -2865,7 +2865,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-selenite.jpg",
+    "image": "./images/bracelet-selenite.jpg",
     "bestSeller": false,
     "tags": [
       "selenite",
@@ -2886,7 +2886,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-seraphinite.jpg",
+    "image": "./images/bracelet-seraphinite.jpg",
     "bestSeller": false,
     "tags": [
       "seraphinite",
@@ -2907,7 +2907,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-serpentine.jpg",
+    "image": "./images/bracelet-serpentine.jpg",
     "bestSeller": false,
     "tags": [
       "serpentine",
@@ -2928,7 +2928,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-shungite-elite.jpg",
+    "image": "./images/bracelet-shungite-elite.jpg",
     "bestSeller": false,
     "tags": [
       "shungite elite",
@@ -2949,7 +2949,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-smokey-quartz.jpg",
+    "image": "./images/bracelet-smokey-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "smokey quartz",
@@ -2970,7 +2970,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-snowflake-black-obsidian.jpg",
+    "image": "./images/bracelet-snowflake-black-obsidian.jpg",
     "bestSeller": false,
     "tags": [
       "snowflake black obsidian",
@@ -2991,7 +2991,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-obsidian-sodalite.jpg",
+    "image": "./images/bracelet-obsidian-sodalite.jpg",
     "bestSeller": false,
     "tags": [
       "obsidian sodalite",
@@ -3012,7 +3012,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-strawberry-quartz.jpg",
+    "image": "./images/bracelet-strawberry-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "strawberry quartz",
@@ -3033,7 +3033,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-sunstone.jpg",
+    "image": "./images/bracelet-sunstone.jpg",
     "bestSeller": false,
     "tags": [
       "sunstone",
@@ -3054,7 +3054,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-tiger-cats-eye-green.jpg",
+    "image": "./images/bracelet-tiger-cats-eye-green.jpg",
     "bestSeller": false,
     "tags": [
       "tiger cats eye green",
@@ -3075,7 +3075,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-tiger-cats-eye-violet.jpg",
+    "image": "./images/bracelet-tiger-cats-eye-violet.jpg",
     "bestSeller": false,
     "tags": [
       "tiger cats eye violet",
@@ -3096,7 +3096,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-tiger-cats-eye-yellow.jpg",
+    "image": "./images/bracelet-tiger-cats-eye-yellow.jpg",
     "bestSeller": false,
     "tags": [
       "tiger cats eye yellow",
@@ -3117,7 +3117,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-yellow-tiger-eye.jpg",
+    "image": "./images/bracelet-yellow-tiger-eye.jpg",
     "bestSeller": false,
     "tags": [
       "yellow tiger eye",
@@ -3138,7 +3138,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-tree-agate.jpg",
+    "image": "./images/bracelet-tree-agate.jpg",
     "bestSeller": false,
     "tags": [
       "tree agate",
@@ -3159,7 +3159,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-turquoise-howlite.jpg",
+    "image": "./images/bracelet-turquoise-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "turquoise howlite",
@@ -3180,7 +3180,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-unakite.jpg",
+    "image": "./images/bracelet-unakite.jpg",
     "bestSeller": false,
     "tags": [
       "unakite",
@@ -3201,7 +3201,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-watermelon-tourmaline.jpg",
+    "image": "./images/bracelet-watermelon-tourmaline.jpg",
     "bestSeller": false,
     "tags": [
       "watermelon tourmaline",
@@ -3222,7 +3222,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-white-agate.jpg",
+    "image": "./images/bracelet-white-agate.jpg",
     "bestSeller": false,
     "tags": [
       "white agate",
@@ -3243,7 +3243,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-white-rainbow-moonstone.jpg",
+    "image": "./images/bracelet-white-rainbow-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "white rainbow moonstone",
@@ -3264,7 +3264,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-yellow-aventurine.jpg",
+    "image": "./images/bracelet-yellow-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "yellow aventurine",
@@ -3285,7 +3285,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-scorpio.jpg",
+    "image": "./images/bracelet-scorpio.jpg",
     "bestSeller": false,
     "tags": [
       "scorpio",
@@ -3306,7 +3306,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-libra.jpg",
+    "image": "./images/bracelet-libra.jpg",
     "bestSeller": false,
     "tags": [
       "libra",
@@ -3327,7 +3327,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-virgo.jpg",
+    "image": "./images/bracelet-virgo.jpg",
     "bestSeller": false,
     "tags": [
       "virgo",
@@ -3336,7 +3336,7 @@
     "id": "KC0143"
   },
   {
-    "name": "Leo \u2013 Design 2",
+    "name": "Leo – Design 2",
     "crystal": "Leo",
     "type": "Bracelet",
     "price": 499,
@@ -3348,7 +3348,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-leo.jpg",
+    "image": "./images/bracelet-leo.jpg",
     "bestSeller": false,
     "tags": [
       "leo",
@@ -3369,7 +3369,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-good-luck.jpg",
+    "image": "./images/bracelet-good-luck.jpg",
     "bestSeller": false,
     "tags": [
       "good luck",
@@ -3390,7 +3390,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-triple-protection-bracelet.jpg",
+    "image": "./images/bracelet-triple-protection-bracelet.jpg",
     "bestSeller": false,
     "tags": [
       "triple protection bracelet",
@@ -3411,7 +3411,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-anxiety.jpg",
+    "image": "./images/bracelet-anxiety.jpg",
     "bestSeller": false,
     "tags": [
       "anxiety",
@@ -3432,7 +3432,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-protection.jpg",
+    "image": "./images/bracelet-protection.jpg",
     "bestSeller": false,
     "tags": [
       "protection",
@@ -3453,7 +3453,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-strength.jpg",
+    "image": "./images/bracelet-strength.jpg",
     "bestSeller": false,
     "tags": [
       "strength",
@@ -3474,7 +3474,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-good-fortune.jpg",
+    "image": "./images/bracelet-good-fortune.jpg",
     "bestSeller": false,
     "tags": [
       "good fortune",
@@ -3495,7 +3495,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-empathy.jpg",
+    "image": "./images/bracelet-empathy.jpg",
     "bestSeller": false,
     "tags": [
       "empathy",
@@ -3516,7 +3516,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-emotional-healing.jpg",
+    "image": "./images/bracelet-emotional-healing.jpg",
     "bestSeller": false,
     "tags": [
       "emotional healing",
@@ -3537,7 +3537,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-passion.jpg",
+    "image": "./images/bracelet-passion.jpg",
     "bestSeller": false,
     "tags": [
       "passion",
@@ -3558,7 +3558,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-grief.jpg",
+    "image": "./images/bracelet-grief.jpg",
     "bestSeller": false,
     "tags": [
       "grief",
@@ -3579,7 +3579,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-courage.jpg",
+    "image": "./images/bracelet-courage.jpg",
     "bestSeller": false,
     "tags": [
       "courage",
@@ -3600,7 +3600,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-self-discovery.jpg",
+    "image": "./images/bracelet-self-discovery.jpg",
     "bestSeller": false,
     "tags": [
       "self-discovery",
@@ -3621,7 +3621,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-positive-mindset.jpg",
+    "image": "./images/bracelet-positive-mindset.jpg",
     "bestSeller": false,
     "tags": [
       "positive mindset",
@@ -3642,7 +3642,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-inner-peace.jpg",
+    "image": "./images/bracelet-inner-peace.jpg",
     "bestSeller": false,
     "tags": [
       "inner peace",
@@ -3663,7 +3663,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-sleep.jpg",
+    "image": "./images/bracelet-sleep.jpg",
     "bestSeller": false,
     "tags": [
       "sleep",
@@ -3684,7 +3684,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-depression.jpg",
+    "image": "./images/bracelet-depression.jpg",
     "bestSeller": false,
     "tags": [
       "depression",
@@ -3705,7 +3705,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-love.jpg",
+    "image": "./images/bracelet-love.jpg",
     "bestSeller": false,
     "tags": [
       "love",
@@ -3726,7 +3726,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-leadership.jpg",
+    "image": "./images/bracelet-leadership.jpg",
     "bestSeller": false,
     "tags": [
       "leadership",
@@ -3747,7 +3747,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-friendshipef.jpg",
+    "image": "./images/bracelet-friendshipef.jpg",
     "bestSeller": false,
     "tags": [
       "friendshipef",
@@ -3768,7 +3768,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-harmony.jpg",
+    "image": "./images/bracelet-harmony.jpg",
     "bestSeller": false,
     "tags": [
       "harmony",
@@ -3789,7 +3789,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-health.jpg",
+    "image": "./images/bracelet-health.jpg",
     "bestSeller": false,
     "tags": [
       "health",
@@ -3810,7 +3810,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-fertility.jpg",
+    "image": "./images/bracelet-fertility.jpg",
     "bestSeller": false,
     "tags": [
       "fertility",
@@ -3831,7 +3831,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-calm.jpg",
+    "image": "./images/bracelet-calm.jpg",
     "bestSeller": false,
     "tags": [
       "calm",
@@ -3852,7 +3852,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-success.jpg",
+    "image": "./images/bracelet-success.jpg",
     "bestSeller": false,
     "tags": [
       "success",
@@ -3873,7 +3873,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-creativity.jpg",
+    "image": "./images/bracelet-creativity.jpg",
     "bestSeller": false,
     "tags": [
       "creativity",
@@ -3894,7 +3894,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-confidence.jpg",
+    "image": "./images/bracelet-confidence.jpg",
     "bestSeller": false,
     "tags": [
       "confidence",
@@ -3915,7 +3915,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-happiness.jpg",
+    "image": "./images/bracelet-happiness.jpg",
     "bestSeller": false,
     "tags": [
       "happiness",
@@ -3936,7 +3936,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-relaxation.jpg",
+    "image": "./images/bracelet-relaxation.jpg",
     "bestSeller": false,
     "tags": [
       "relaxation",
@@ -3957,7 +3957,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-anger.jpg",
+    "image": "./images/bracelet-anger.jpg",
     "bestSeller": false,
     "tags": [
       "anger",
@@ -3978,7 +3978,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-forgiveness.jpg",
+    "image": "./images/bracelet-forgiveness.jpg",
     "bestSeller": false,
     "tags": [
       "forgiveness",
@@ -3999,7 +3999,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-feminine-energy.jpg",
+    "image": "./images/bracelet-feminine-energy.jpg",
     "bestSeller": false,
     "tags": [
       "feminine energy",
@@ -4020,7 +4020,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-new-job-opportunity.jpg",
+    "image": "./images/bracelet-new-job-opportunity.jpg",
     "bestSeller": false,
     "tags": [
       "new job opportunity",
@@ -4041,7 +4041,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-money-magnate.jpg",
+    "image": "./images/bracelet-money-magnate.jpg",
     "bestSeller": false,
     "tags": [
       "money magnate",
@@ -4062,7 +4062,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-throat.jpg",
+    "image": "./images/bracelet-throat.jpg",
     "bestSeller": false,
     "tags": [
       "throat",
@@ -4083,7 +4083,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-third-eye.jpg",
+    "image": "./images/bracelet-third-eye.jpg",
     "bestSeller": false,
     "tags": [
       "third eye",
@@ -4104,7 +4104,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-crown.jpg",
+    "image": "./images/bracelet-crown.jpg",
     "bestSeller": false,
     "tags": [
       "crown",
@@ -4125,7 +4125,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-7-chakra.jpg",
+    "image": "./images/bracelet-7-chakra.jpg",
     "bestSeller": false,
     "tags": [
       "7 chakra",
@@ -4146,7 +4146,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-solar-plexus.jpg",
+    "image": "./images/bracelet-solar-plexus.jpg",
     "bestSeller": false,
     "tags": [
       "solar plexus",
@@ -4167,7 +4167,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-root.jpg",
+    "image": "./images/bracelet-root.jpg",
     "bestSeller": false,
     "tags": [
       "root",
@@ -4188,7 +4188,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-sacral.jpg",
+    "image": "./images/bracelet-sacral.jpg",
     "bestSeller": false,
     "tags": [
       "sacral",
@@ -4209,7 +4209,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-heart.jpg",
+    "image": "./images/bracelet-heart.jpg",
     "bestSeller": false,
     "tags": [
       "heart",
@@ -4230,7 +4230,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-rose-quartz.jpg",
+    "image": "./images/bracelet-lava-rose-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "(lava + rose quartz)",
@@ -4251,7 +4251,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-howlite.jpg",
+    "image": "./images/bracelet-lava-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "(lava + howlite)",
@@ -4272,7 +4272,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-tiger-eye-howlite.jpg",
+    "image": "./images/bracelet-tiger-eye-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "(tiger eye +howlite)",
@@ -4293,7 +4293,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-black-onyx-matt-howlite.jpg",
+    "image": "./images/bracelet-black-onyx-matt-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "(black onyx matt + howlite)",
@@ -4314,7 +4314,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-hematite-black-onyx-matt.jpg",
+    "image": "./images/bracelet-hematite-black-onyx-matt.jpg",
     "bestSeller": false,
     "tags": [
       "(hematite + black onyx matt)",
@@ -4335,7 +4335,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-tiger-eye-black-onyx-matt.jpg",
+    "image": "./images/bracelet-tiger-eye-black-onyx-matt.jpg",
     "bestSeller": false,
     "tags": [
       "(tiger eye + black onyx matt)",
@@ -4356,7 +4356,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-pink-tourmaline.jpg",
+    "image": "./images/bracelet-lava-pink-tourmaline.jpg",
     "bestSeller": false,
     "tags": [
       "lava + pink tourmaline",
@@ -4377,7 +4377,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-amethyst.jpg",
+    "image": "./images/bracelet-lava-amethyst.jpg",
     "bestSeller": false,
     "tags": [
       "lava + amethyst",
@@ -4398,7 +4398,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-rose-quartz-2.jpg",
+    "image": "./images/bracelet-lava-rose-quartz-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + rose quartz",
@@ -4419,7 +4419,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-moonstone.jpg",
+    "image": "./images/bracelet-lava-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "lava + moonstone",
@@ -4440,7 +4440,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-carnelian.jpg",
+    "image": "./images/bracelet-lava-carnelian.jpg",
     "bestSeller": false,
     "tags": [
       "lava + carnelian",
@@ -4461,7 +4461,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-howlite-2.jpg",
+    "image": "./images/bracelet-lava-howlite-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + howlite",
@@ -4482,7 +4482,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-tiger-eye.jpg",
+    "image": "./images/bracelet-lava-tiger-eye.jpg",
     "bestSeller": false,
     "tags": [
       "lava + tiger eye",
@@ -4503,7 +4503,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-lapis-lazuli.jpg",
+    "image": "./images/bracelet-lava-lapis-lazuli.jpg",
     "bestSeller": false,
     "tags": [
       "lava + lapis lazuli",
@@ -4524,7 +4524,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-hematite.jpg",
+    "image": "./images/bracelet-lava-hematite.jpg",
     "bestSeller": false,
     "tags": [
       "lava + hematite",
@@ -4545,7 +4545,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-picture-jasper.jpg",
+    "image": "./images/bracelet-lava-picture-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "lava + picture jasper",
@@ -4566,7 +4566,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-citrine.jpg",
+    "image": "./images/bracelet-lava-citrine.jpg",
     "bestSeller": false,
     "tags": [
       "lava + citrine",
@@ -4587,7 +4587,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-honey-calcitea.jpg",
+    "image": "./images/bracelet-lava-honey-calcitea.jpg",
     "bestSeller": false,
     "tags": [
       "lava + honey calcitea",
@@ -4608,7 +4608,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-red-jasper.jpg",
+    "image": "./images/bracelet-lava-red-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "lava + red jasper",
@@ -4629,7 +4629,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-serpentine.jpg",
+    "image": "./images/bracelet-lava-serpentine.jpg",
     "bestSeller": false,
     "tags": [
       "lava + serpentine",
@@ -4650,7 +4650,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-yellow-aventurine.jpg",
+    "image": "./images/bracelet-lava-yellow-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "lava + yellow aventurine",
@@ -4659,7 +4659,7 @@
     "id": "KC0206"
   },
   {
-    "name": "Lava + Carnelian \u2013 Design 2",
+    "name": "Lava + Carnelian – Design 2",
     "crystal": "Lava + Carnelian",
     "type": "Bracelet",
     "price": 499,
@@ -4671,7 +4671,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-carnelian-2.jpg",
+    "image": "./images/bracelet-lava-carnelian-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + carnelian",
@@ -4680,7 +4680,7 @@
     "id": "KC0207"
   },
   {
-    "name": "Lava + Howlite \u2013 Design 2",
+    "name": "Lava + Howlite – Design 2",
     "crystal": "Lava + Howlite",
     "type": "Bracelet",
     "price": 499,
@@ -4692,7 +4692,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-howlite-3.jpg",
+    "image": "./images/bracelet-lava-howlite-3.jpg",
     "bestSeller": false,
     "tags": [
       "lava + howlite",
@@ -4701,7 +4701,7 @@
     "id": "KC0208"
   },
   {
-    "name": "Lava + Tiger Eye \u2013 Design 2",
+    "name": "Lava + Tiger Eye – Design 2",
     "crystal": "Lava + Tiger Eye",
     "type": "Bracelet",
     "price": 499,
@@ -4713,7 +4713,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-tiger-eye-2.jpg",
+    "image": "./images/bracelet-lava-tiger-eye-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + tiger eye",
@@ -4722,7 +4722,7 @@
     "id": "KC0209"
   },
   {
-    "name": "Lava + Lapis Lazuli \u2013 Design 2",
+    "name": "Lava + Lapis Lazuli – Design 2",
     "crystal": "Lava + Lapis Lazuli",
     "type": "Bracelet",
     "price": 499,
@@ -4734,7 +4734,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-lapis-lazuli-2.jpg",
+    "image": "./images/bracelet-lava-lapis-lazuli-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + lapis lazuli",
@@ -4743,7 +4743,7 @@
     "id": "KC0210"
   },
   {
-    "name": "Lava + Hematite \u2013 Design 2",
+    "name": "Lava + Hematite – Design 2",
     "crystal": "Lava + Hematite",
     "type": "Bracelet",
     "price": 499,
@@ -4755,7 +4755,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-hematite-2.jpg",
+    "image": "./images/bracelet-lava-hematite-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + hematite",
@@ -4764,7 +4764,7 @@
     "id": "KC0211"
   },
   {
-    "name": "Lava + Pink Tourmaline \u2013 Design 2",
+    "name": "Lava + Pink Tourmaline – Design 2",
     "crystal": "Lava + Pink Tourmaline",
     "type": "Bracelet",
     "price": 499,
@@ -4776,7 +4776,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-pink-tourmaline-2.jpg",
+    "image": "./images/bracelet-lava-pink-tourmaline-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + pink tourmaline",
@@ -4785,7 +4785,7 @@
     "id": "KC0212"
   },
   {
-    "name": "Lava + Amethyst \u2013 Design 2",
+    "name": "Lava + Amethyst – Design 2",
     "crystal": "Lava + Amethyst",
     "type": "Bracelet",
     "price": 499,
@@ -4797,7 +4797,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-amethyst-2.jpg",
+    "image": "./images/bracelet-lava-amethyst-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + amethyst",
@@ -4806,7 +4806,7 @@
     "id": "KC0213"
   },
   {
-    "name": "Lava + Rose Quartz \u2013 Design 2",
+    "name": "Lava + Rose Quartz – Design 2",
     "crystal": "Lava + Rose Quartz",
     "type": "Bracelet",
     "price": 499,
@@ -4818,7 +4818,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-rose-quartz-3.jpg",
+    "image": "./images/bracelet-lava-rose-quartz-3.jpg",
     "bestSeller": false,
     "tags": [
       "lava + rose quartz",
@@ -4827,7 +4827,7 @@
     "id": "KC0214"
   },
   {
-    "name": "Lava + Moonstone \u2013 Design 2",
+    "name": "Lava + Moonstone – Design 2",
     "crystal": "Lava + Moonstone",
     "type": "Bracelet",
     "price": 499,
@@ -4839,7 +4839,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-moonstone-2.jpg",
+    "image": "./images/bracelet-lava-moonstone-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + moonstone",
@@ -4848,7 +4848,7 @@
     "id": "KC0215"
   },
   {
-    "name": "Lava + Picture Jasper \u2013 Design 2",
+    "name": "Lava + Picture Jasper – Design 2",
     "crystal": "Lava + Picture Jasper",
     "type": "Bracelet",
     "price": 499,
@@ -4860,7 +4860,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-picture-jasper-2.jpg",
+    "image": "./images/bracelet-lava-picture-jasper-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + picture jasper",
@@ -4869,7 +4869,7 @@
     "id": "KC0216"
   },
   {
-    "name": "Lava + Citrine \u2013 Design 2",
+    "name": "Lava + Citrine – Design 2",
     "crystal": "Lava + Citrine",
     "type": "Bracelet",
     "price": 499,
@@ -4881,7 +4881,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-citrine-2.jpg",
+    "image": "./images/bracelet-lava-citrine-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + citrine",
@@ -4890,7 +4890,7 @@
     "id": "KC0217"
   },
   {
-    "name": "Lava + Honey Calcitea \u2013 Design 2",
+    "name": "Lava + Honey Calcitea – Design 2",
     "crystal": "Lava + Honey Calcitea",
     "type": "Bracelet",
     "price": 499,
@@ -4902,7 +4902,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-honey-calcitea-2.jpg",
+    "image": "./images/bracelet-lava-honey-calcitea-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + honey calcitea",
@@ -4911,7 +4911,7 @@
     "id": "KC0218"
   },
   {
-    "name": "Lava + Red Jasper \u2013 Design 2",
+    "name": "Lava + Red Jasper – Design 2",
     "crystal": "Lava + Red Jasper",
     "type": "Bracelet",
     "price": 499,
@@ -4923,7 +4923,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-red-jasper-2.jpg",
+    "image": "./images/bracelet-lava-red-jasper-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + red jasper",
@@ -4932,7 +4932,7 @@
     "id": "KC0219"
   },
   {
-    "name": "Lava + Serpentine \u2013 Design 2",
+    "name": "Lava + Serpentine – Design 2",
     "crystal": "Lava + Serpentine",
     "type": "Bracelet",
     "price": 499,
@@ -4944,7 +4944,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-serpentine-2.jpg",
+    "image": "./images/bracelet-lava-serpentine-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + serpentine",
@@ -4953,7 +4953,7 @@
     "id": "KC0220"
   },
   {
-    "name": "Lava + Yellow Aventurine \u2013 Design 2",
+    "name": "Lava + Yellow Aventurine – Design 2",
     "crystal": "Lava + Yellow Aventurine",
     "type": "Bracelet",
     "price": 499,
@@ -4965,7 +4965,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-lava-yellow-aventurine-2.jpg",
+    "image": "./images/bracelet-lava-yellow-aventurine-2.jpg",
     "bestSeller": false,
     "tags": [
       "lava + yellow aventurine",
@@ -4986,7 +4986,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-emf-protection.jpg",
+    "image": "./images/bracelet-emf-protection.jpg",
     "bestSeller": false,
     "tags": [
       "emf protection",
@@ -5007,7 +5007,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-eil-eye.jpg",
+    "image": "./images/bracelet-eil-eye.jpg",
     "bestSeller": false,
     "tags": [
       "eil eye",
@@ -5028,7 +5028,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-yin-yang-light-dark-balance-bracelet.jpg",
+    "image": "./images/bracelet-yin-yang-light-dark-balance-bracelet.jpg",
     "bestSeller": false,
     "tags": [
       "(yin+yang | light+dark) balance bracelet",
@@ -5049,7 +5049,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/bracelet-happy-beads.jpg",
+    "image": "./images/bracelet-happy-beads.jpg",
     "bestSeller": false,
     "tags": [
       "happy beads",
@@ -5070,7 +5070,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-black-obsidian.jpg",
+    "image": "./images/raw-black-obsidian.jpg",
     "bestSeller": false,
     "tags": [
       "black obsidian",
@@ -5091,7 +5091,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-amazonite.jpg",
+    "image": "./images/raw-amazonite.jpg",
     "bestSeller": false,
     "tags": [
       "amazonite",
@@ -5112,7 +5112,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-amethyst.jpg",
+    "image": "./images/raw-amethyst.jpg",
     "bestSeller": false,
     "tags": [
       "amethyst",
@@ -5133,7 +5133,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-black-rutile.jpg",
+    "image": "./images/raw-black-rutile.jpg",
     "bestSeller": false,
     "tags": [
       "black rutile",
@@ -5154,7 +5154,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-black-tourmaline.jpg",
+    "image": "./images/raw-black-tourmaline.jpg",
     "bestSeller": false,
     "tags": [
       "black tourmaline",
@@ -5175,7 +5175,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-bloodstone.jpg",
+    "image": "./images/raw-bloodstone.jpg",
     "bestSeller": false,
     "tags": [
       "bloodstone",
@@ -5196,7 +5196,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-carnelian.jpg",
+    "image": "./images/raw-carnelian.jpg",
     "bestSeller": false,
     "tags": [
       "carnelian",
@@ -5217,7 +5217,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-crystal-quartz.jpg",
+    "image": "./images/raw-crystal-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "crystal quartz",
@@ -5238,7 +5238,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-dalmatian-jasper.jpg",
+    "image": "./images/raw-dalmatian-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "dalmatian jasper",
@@ -5259,7 +5259,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-labradorite.jpg",
+    "image": "./images/raw-labradorite.jpg",
     "bestSeller": false,
     "tags": [
       "labradorite",
@@ -5280,7 +5280,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-lapis-lazuli.jpg",
+    "image": "./images/raw-lapis-lazuli.jpg",
     "bestSeller": false,
     "tags": [
       "lapis lazuli",
@@ -5301,7 +5301,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-lepidolite.jpg",
+    "image": "./images/raw-lepidolite.jpg",
     "bestSeller": false,
     "tags": [
       "lepidolite",
@@ -5322,7 +5322,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-moonstone.jpg",
+    "image": "./images/raw-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "moonstone",
@@ -5343,7 +5343,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-moss-agate.jpg",
+    "image": "./images/raw-moss-agate.jpg",
     "bestSeller": false,
     "tags": [
       "moss agate",
@@ -5364,7 +5364,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-howlite.jpg",
+    "image": "./images/raw-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "howlite",
@@ -5385,7 +5385,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-green-aventurine.jpg",
+    "image": "./images/raw-green-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "green aventurine",
@@ -5406,7 +5406,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-hematite.jpg",
+    "image": "./images/raw-hematite.jpg",
     "bestSeller": false,
     "tags": [
       "hematite",
@@ -5427,7 +5427,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-iolite.jpg",
+    "image": "./images/raw-iolite.jpg",
     "bestSeller": false,
     "tags": [
       "iolite",
@@ -5448,7 +5448,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-phrenite.jpg",
+    "image": "./images/raw-phrenite.jpg",
     "bestSeller": false,
     "tags": [
       "phrenite",
@@ -5469,7 +5469,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-multi-fluorite.jpg",
+    "image": "./images/raw-multi-fluorite.jpg",
     "bestSeller": false,
     "tags": [
       "multi fluorite",
@@ -5490,7 +5490,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-peach-moonstone.jpg",
+    "image": "./images/raw-peach-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "peach moonstone",
@@ -5511,7 +5511,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-pyrite.jpg",
+    "image": "./images/raw-pyrite.jpg",
     "bestSeller": false,
     "tags": [
       "pyrite",
@@ -5532,7 +5532,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-rainbow-moonstone.jpg",
+    "image": "./images/raw-rainbow-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "rainbow moonstone",
@@ -5553,7 +5553,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-red-jasper.jpg",
+    "image": "./images/raw-red-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "red jasper",
@@ -5574,7 +5574,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-scolecite.jpg",
+    "image": "./images/raw-scolecite.jpg",
     "bestSeller": false,
     "tags": [
       "scolecite",
@@ -5595,7 +5595,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-rose-quartz.jpg",
+    "image": "./images/raw-rose-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "rose quartz",
@@ -5616,7 +5616,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-ruby-zosite.jpg",
+    "image": "./images/raw-ruby-zosite.jpg",
     "bestSeller": false,
     "tags": [
       "ruby zosite",
@@ -5625,7 +5625,7 @@
     "id": "KC0252"
   },
   {
-    "name": "Scolecite \u2013 Design 2",
+    "name": "Scolecite – Design 2",
     "crystal": "Scolecite",
     "type": "Raw",
     "price": 299,
@@ -5637,7 +5637,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-scolecite-2.jpg",
+    "image": "./images/raw-scolecite-2.jpg",
     "bestSeller": false,
     "tags": [
       "scolecite",
@@ -5658,7 +5658,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-serpentine.jpg",
+    "image": "./images/raw-serpentine.jpg",
     "bestSeller": false,
     "tags": [
       "serpentine",
@@ -5679,7 +5679,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-sunstone.jpg",
+    "image": "./images/raw-sunstone.jpg",
     "bestSeller": false,
     "tags": [
       "sunstone",
@@ -5700,7 +5700,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-tree-agate.jpg",
+    "image": "./images/raw-tree-agate.jpg",
     "bestSeller": false,
     "tags": [
       "tree agate",
@@ -5721,7 +5721,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/raw-yellow-aventurine.jpg",
+    "image": "./images/raw-yellow-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "yellow aventurine",
@@ -5742,7 +5742,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-crystal-quartz.jpg",
+    "image": "./images/tower-crystal-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "crystal quartz",
@@ -5763,7 +5763,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-amethyst.jpg",
+    "image": "./images/tower-amethyst.jpg",
     "bestSeller": false,
     "tags": [
       "amethyst",
@@ -5784,7 +5784,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-black-tourmaline.jpg",
+    "image": "./images/tower-black-tourmaline.jpg",
     "bestSeller": false,
     "tags": [
       "black tourmaline",
@@ -5805,7 +5805,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-green-aventurine.jpg",
+    "image": "./images/tower-green-aventurine.jpg",
     "bestSeller": false,
     "tags": [
       "green aventurine",
@@ -5826,7 +5826,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-green-fluorite.jpg",
+    "image": "./images/tower-green-fluorite.jpg",
     "bestSeller": false,
     "tags": [
       "green fluorite",
@@ -5847,7 +5847,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-hematite.jpg",
+    "image": "./images/tower-hematite.jpg",
     "bestSeller": false,
     "tags": [
       "hematite",
@@ -5868,7 +5868,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-labradorite.jpg",
+    "image": "./images/tower-labradorite.jpg",
     "bestSeller": false,
     "tags": [
       "labradorite",
@@ -5889,7 +5889,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-lapis-lazuli.jpg",
+    "image": "./images/tower-lapis-lazuli.jpg",
     "bestSeller": false,
     "tags": [
       "lapis lazuli",
@@ -5910,7 +5910,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-moonstone.jpg",
+    "image": "./images/tower-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "moonstone",
@@ -5931,7 +5931,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-rose-quartz.jpg",
+    "image": "./images/tower-rose-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "rose quartz",
@@ -5952,7 +5952,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-rainbow-moonstone.jpg",
+    "image": "./images/tower-rainbow-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "rainbow moonstone",
@@ -5973,7 +5973,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-red-jasper.jpg",
+    "image": "./images/tower-red-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "red jasper",
@@ -5994,7 +5994,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-smokey-quartz.jpg",
+    "image": "./images/tower-smokey-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "smokey quartz",
@@ -6015,7 +6015,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-sodalite.jpg",
+    "image": "./images/tower-sodalite.jpg",
     "bestSeller": false,
     "tags": [
       "sodalite",
@@ -6036,7 +6036,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-sunstone.jpg",
+    "image": "./images/tower-sunstone.jpg",
     "bestSeller": false,
     "tags": [
       "sunstone",
@@ -6057,7 +6057,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-tiger-eye.jpg",
+    "image": "./images/tower-tiger-eye.jpg",
     "bestSeller": false,
     "tags": [
       "tiger eye",
@@ -6078,7 +6078,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-opal.jpg",
+    "image": "./images/tower-opal.jpg",
     "bestSeller": false,
     "tags": [
       "opal",
@@ -6099,7 +6099,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-pyrite-druzy.jpg",
+    "image": "./images/tower-pyrite-druzy.jpg",
     "bestSeller": false,
     "tags": [
       "pyrite druzy",
@@ -6120,7 +6120,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-howlite.jpg",
+    "image": "./images/tower-howlite.jpg",
     "bestSeller": false,
     "tags": [
       "howlite",
@@ -6141,7 +6141,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-amazonite.jpg",
+    "image": "./images/tower-amazonite.jpg",
     "bestSeller": false,
     "tags": [
       "amazonite",
@@ -6162,7 +6162,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-moss-agate.jpg",
+    "image": "./images/tower-moss-agate.jpg",
     "bestSeller": false,
     "tags": [
       "moss agate",
@@ -6171,7 +6171,7 @@
     "id": "KC0278"
   },
   {
-    "name": "Pyrite \u2013 Design 2",
+    "name": "Pyrite – Design 2",
     "crystal": "Pyrite",
     "type": "Tower",
     "price": 699,
@@ -6183,7 +6183,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-pyrite.jpg",
+    "image": "./images/tower-pyrite.jpg",
     "bestSeller": false,
     "tags": [
       "pyrite",
@@ -6204,7 +6204,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-shungite-black.jpg",
+    "image": "./images/tower-shungite-black.jpg",
     "bestSeller": false,
     "tags": [
       "shungite black",
@@ -6225,7 +6225,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-rhodonite.jpg",
+    "image": "./images/tower-rhodonite.jpg",
     "bestSeller": false,
     "tags": [
       "rhodonite",
@@ -6246,7 +6246,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/tower-selenite.jpg",
+    "image": "./images/tower-selenite.jpg",
     "bestSeller": false,
     "tags": [
       "selenite",
@@ -6267,7 +6267,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-amethyst.jpg",
+    "image": "./images/chip-stone-amethyst.jpg",
     "bestSeller": false,
     "tags": [
       "amethyst",
@@ -6288,7 +6288,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-lapis-lazuli.jpg",
+    "image": "./images/chip-stone-lapis-lazuli.jpg",
     "bestSeller": false,
     "tags": [
       "lapis lazuli",
@@ -6309,7 +6309,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-citrine.jpg",
+    "image": "./images/chip-stone-citrine.jpg",
     "bestSeller": false,
     "tags": [
       "citrine",
@@ -6330,7 +6330,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-carnelian.jpg",
+    "image": "./images/chip-stone-carnelian.jpg",
     "bestSeller": false,
     "tags": [
       "carnelian",
@@ -6351,7 +6351,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-red-jasper.jpg",
+    "image": "./images/chip-stone-red-jasper.jpg",
     "bestSeller": false,
     "tags": [
       "red jasper",
@@ -6372,7 +6372,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-green-jade.jpg",
+    "image": "./images/chip-stone-green-jade.jpg",
     "bestSeller": false,
     "tags": [
       "green jade",
@@ -6393,7 +6393,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-crystal-quartz.jpg",
+    "image": "./images/chip-stone-crystal-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "crystal quartz",
@@ -6414,7 +6414,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-amazonite.jpg",
+    "image": "./images/chip-stone-amazonite.jpg",
     "bestSeller": false,
     "tags": [
       "amazonite",
@@ -6435,7 +6435,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-mix-agate.jpg",
+    "image": "./images/chip-stone-mix-agate.jpg",
     "bestSeller": false,
     "tags": [
       "mix agate",
@@ -6456,7 +6456,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-garnet.jpg",
+    "image": "./images/chip-stone-garnet.jpg",
     "bestSeller": false,
     "tags": [
       "garnet",
@@ -6477,7 +6477,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-hematite.jpg",
+    "image": "./images/chip-stone-hematite.jpg",
     "bestSeller": false,
     "tags": [
       "hematite",
@@ -6498,7 +6498,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-moss-agate.jpg",
+    "image": "./images/chip-stone-moss-agate.jpg",
     "bestSeller": false,
     "tags": [
       "moss agate",
@@ -6519,7 +6519,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-multi-moonstone.jpg",
+    "image": "./images/chip-stone-multi-moonstone.jpg",
     "bestSeller": false,
     "tags": [
       "multi moonstone",
@@ -6540,7 +6540,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-peridot.jpg",
+    "image": "./images/chip-stone-peridot.jpg",
     "bestSeller": false,
     "tags": [
       "peridot",
@@ -6561,7 +6561,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-rose-quartz.jpg",
+    "image": "./images/chip-stone-rose-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "rose quartz",
@@ -6582,7 +6582,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-smokey-quartz.jpg",
+    "image": "./images/chip-stone-smokey-quartz.jpg",
     "bestSeller": false,
     "tags": [
       "smokey quartz",
@@ -6591,7 +6591,7 @@
     "id": "KC0298"
   },
   {
-    "name": "Moss Agate \u2013 Design 2",
+    "name": "Moss Agate – Design 2",
     "crystal": "Moss Agate",
     "type": "Chip Stone",
     "price": 199,
@@ -6603,7 +6603,7 @@
       "Source": "Supplier catalogue image",
       "Care": "Handle gently and store separately from harder stones."
     },
-    "image": "assets/products/chip-stone-moss-agate-2.jpg",
+    "image": "./images/chip-stone-moss-agate-2.jpg",
     "bestSeller": false,
     "tags": [
       "moss agate",
